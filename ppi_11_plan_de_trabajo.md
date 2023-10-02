@@ -10,7 +10,7 @@
    - Utilizar Pandas para cargar y explorar los datos.
    - Identificar patrones iniciales en los datos.
 
-3.**Busqueda de imágenes**
+3. **Busqueda de imágenes**
    - Empezar la busqueda de imagenes a usar en el aplicativo.
 
 4. **Diseño de la Interfaz de Usuario (UI)**
@@ -18,13 +18,14 @@
    - Decidir qué elementos de la interfaz se mostrarán en el informe.
 
 ### Informe 04 (2 semanas)
+
 1. **Preprocesamiento de Datos**
    - Limpieza y transformación de datos.
    - Manejo de datos faltantes o erróneos.
 
 2. **Integración de scikit-image para Procesamiento de Imágenes**
-   -Utilizar scikit-image para procesar imágenes de portadas de películas o series si es necesario, por ejemplo,
-   para la extracción de características de imágenes.
+   - Utilizar scikit-image para procesar imágenes de portadas de películas o series si es necesario, por ejemplo,
+     para la extracción de características de imágenes.
 
 3. **Desarrollo de Algoritmo de Recomendación**
    - Investigar y seleccionar un algoritmo de recomendación adecuado.
